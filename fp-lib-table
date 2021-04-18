@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty-master)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/random-keyboard-parts.pretty-master)(options "")(descr ""))
+  (lib (name TheKeebrary)(type KiCad)(uri ${KIPRJMOD}/TheKeebrary.pretty-master)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid-master/MX_Only.pretty)(options "")(descr ""))
+  (lib (name Logocustom)(type KiCad)(uri ${KIPRJMOD}/Logocustom)(options "")(descr ""))
+  (lib (name rookiebwoy)(type KiCad)(uri ${KIPRJMOD}/rookiebwoy.pretty-master)(options "")(descr ""))
+)
