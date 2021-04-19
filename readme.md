@@ -31,7 +31,7 @@ PCB's backside.
 
 + The 2 LEDs rappresent the current layer in binary (max 4 layers)
 + Total PCB dimensions are 99.22mm x 87.31mm
-+ Macropad dimensions after build is 99.22mm x 42.86mm
++ Macropad dimensions after build are 99.22mm x 42.86mm
 
 ---
 ## BOM
@@ -50,3 +50,14 @@ PCB's backside.
 |6x 	|Rubber feet                 	        |
 |4x 	|Keycaps                     	        |
 |2x 	|Knobs                       	        |
+
+---
+## References
+
+I decided to open source this project because I wanted to give back to the amazing mechanical keyboard comunity what was given to me. I owe special mention to the following links that I found extremely useful and that without them I could never achieve this:
+
++ the keyboard designer wiki [@ ai03.com](https://wiki.ai03.com/books/pcb-design/chapter/pcb-designer-guide) for KiCad's tutorial
++ Chokkan's [YouTube videos](https://www.youtube.com/watch?v=-HLV6mUxNnU) for setting up QMK's developing environment
++ imchipwood's [dumbpad macropad](https://github.com/imchipwood/dumbpad) for encoder's routing, LED's behavior, QMK and readme structure
+
+---
