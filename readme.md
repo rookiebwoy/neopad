@@ -2,10 +2,10 @@
 
 ## Overview
 
-Neopad is a little macro pad with four switches and two rotary encoders, made by through hole components only. It's designed to use [QMK](https://qmk.fm/) firmware.
+Neopad is a little macropad with four switches and two rotary encoders, made by through hole components only. It's designed to use [QMK](https://qmk.fm/) firmware.
 _Actually the number of switches is six, because even the encoder are allowed to click._
 
-![Neopad](https://i.imgur.com/TgOkj2F.jpg "Neopad first proto")
+![Neopad](https://i.imgur.com/TgOkj2Fh.jpg "Neopad first proto")
 
 The Neopad in the photo above is the first prototype with ultra light case made from biscuits cardboard. In this repo you can find the final revision including:
 
@@ -14,26 +14,26 @@ The Neopad in the photo above is the first prototype with ultra light case made 
 + added breakable PCB for EOTW case
 + new shiny artwork
 
----
+
 ## In this repo
 
 Here you can find my KiCad project files and the gerbers I used to manufacture the Neopad.
 In order to open and modify them you will need to download and add the [keebio-components](https://github.com/keebio/keebio-components.git) symbols library to the project's path.
 
-![Neopad PCB front](https://i.imgur.com/rHWmGkm.png "Neopad PCB front")
+![Neopad PCB front](https://i.imgur.com/rHWmGkmh.png "Neopad PCB front")
 PCB's frontside.
 
-![Neopad PCB back](https://i.imgur.com/kSEu7ok.png "Neopad PCB back")
+![Neopad PCB back](https://i.imgur.com/kSEu7okh.png "Neopad PCB back")
 PCB's backside.
 
----
+
 ## Description
 
-+ The 2 LEDs rappresent the current layer in binary (max 4 layers)
++ The 2 LEDs rappresent the current layer in binary (max 4 layers rappresented but, accordingly with [QMK capabilities](https://beta.docs.qmk.fm/using-qmk/software-features/feature_layers), you can program up to 16 layers)
 + Total PCB dimensions are 99.22mm x 87.31mm
 + Macropad dimensions after build are 99.22mm x 42.86mm
 
----
+
 ## BOM
 
 |Qty    |Description                            |
@@ -51,7 +51,7 @@ PCB's backside.
 |4x 	|Keycaps                     	        |
 |2x 	|Knobs                       	        |
 
----
+
 ## References
 
 I decided to open source this project because I wanted to give back to the amazing mechanical keyboard comunity what was given to me. I owe special mention to the following links that I found extremely useful and that without them I could never achieve this:
@@ -60,4 +60,3 @@ I decided to open source this project because I wanted to give back to the amazi
 + Chokkan's [YouTube videos](https://www.youtube.com/watch?v=-HLV6mUxNnU) for setting up QMK's developing environment
 + imchipwood's [dumbpad macropad](https://github.com/imchipwood/dumbpad) for encoder's routing, LED's behavior, QMK and readme structure
 
----
