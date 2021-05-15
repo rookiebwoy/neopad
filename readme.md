@@ -52,6 +52,11 @@ PCB's backside.
 |2x 	|Knobs                       	        |
 
 
+## Firmware
+
+You can find the QMK Firmware for Neopad on the official QMK repository at [this link](https://github.com/qmk/qmk_firmware/tree/master/keyboards/neopad).
+
+
 ## References
 
 I decided to open source this project because I wanted to give back to the amazing mechanical keyboard comunity what was given to me. I owe special mention to the following links that I found extremely useful and that without them I could never achieve this:
