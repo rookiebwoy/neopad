@@ -14,16 +14,18 @@ The Neopad in the photo above is the first prototype with ultra light case made 
 + added breakable PCB for EOTW case
 + new shiny artwork
 
+Read the full development log on my website: [rookiebwoy.eu](https://www.rookiebwoy.eu/projects/neopad/neopad.html).
+
 
 ## In this repo
 
 Here you can find my KiCad project files and the gerbers I used to manufacture the Neopad.
 In order to open and modify them you will need to download and add the [keebio-components](https://github.com/keebio/keebio-components.git) symbols library to the project's path.
 
-![Neopad PCB front](https://i.imgur.com/rHWmGkmh.png "Neopad PCB front")
+![Neopad PCB front](https://i.imgur.com/SXWMJNI.png "Neopad PCB front")
 PCB's frontside.
 
-![Neopad PCB back](https://i.imgur.com/kSEu7okh.png "Neopad PCB back")
+![Neopad PCB back](https://i.imgur.com/6jMqXXi.png "Neopad PCB back")
 PCB's backside.
 
 

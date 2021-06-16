@@ -6,4 +6,5 @@
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid-master/MX_Only.pretty)(options "")(descr ""))
   (lib (name Logocustom)(type KiCad)(uri ${KIPRJMOD}/Logocustom)(options "")(descr ""))
   (lib (name rookiebwoy)(type KiCad)(uri ${KIPRJMOD}/rookiebwoy.pretty-master)(options "")(descr ""))
+  (lib (name Panelization)(type KiCad)(uri ${KIPRJMOD}/Panelization.pretty-master)(options "")(descr ""))
 )
