@@ -69,7 +69,7 @@ I decided to open source this project because I wanted to give back to the amazi
 
 ## Donations
 
-If you've found something useful, please consider helping me maintain my website online and further develop all my projects.
+If you've found something useful, please consider helping me maintain [my website](https://www.rookiebwoy.eu/) online and further develop all my projects.
 
 <p align="center">
 <a href="https://ko-fi.com/R6R84ZW1K"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Donate button"/></a>
